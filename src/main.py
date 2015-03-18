@@ -10,7 +10,7 @@ from wx.lib.wordwrap import wordwrap
 import groupy
 import groupy.config
 
-from src import config
+import config
 
 
 class GroupList(wx.ListBox):
